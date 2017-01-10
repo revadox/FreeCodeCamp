@@ -47,7 +47,7 @@ This code is running live at [FreeCodeCamp.com](https://www.freecodecamp.com). W
 
 ### [Join our community here](https://www.freecodecamp.com/signin).
 
-Found a bug?
+Found a bug???
 ------------
 
 Do not file an issue until you have followed these steps:
